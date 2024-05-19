@@ -38,20 +38,20 @@
 ### 👉 Unit Testing
 <p>
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-<img alt="Google Test" src="https://img.shields.io/badge/-GoogleTest-%23C21325?style=for-the-badge&logo=google&logoColor=white"/>
+<img alt="Google Test" src="https://img.shields.io/badge/-GoogleTest-%23C21325?style=for-the-badge&logo=google&logoColor=%2361DAFB"/>
 </p>
 
 ### 👉 Version Control
 
 <p>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB"/>
 </p>
 
 ### 👉 Others
 
 <p>
-<img alt="Kafka" src="https://img.shields.io/badge/kafka-%230db7ed.svg?style=for-the-badge&logo=kafka&logoColor=white"/>
+<img alt="Kafka" src="https://img.shields.io/badge/kafka-%230db7ed.svg?style=for-the-badge&logo=kafka&logoColor=%2361DAFB"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
