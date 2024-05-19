@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working at **Jio Platforms Limited as full-stack developer**.
 
-- ☄️ I’m currently working on **NetflixGPT**.
+- ☄️ I’m currently working on **Youtube Clone**.
 
 - 📫 How to reach me **atulkr00035@gmail.com**
 
