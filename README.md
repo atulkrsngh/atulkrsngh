@@ -24,6 +24,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/redux_toolkit-%23007ACC.svg?style=for-the-badge&logo=redux_toolkit&logoColor=white"/>
 </p>
 
 ### 👉 Back-end
@@ -56,12 +57,12 @@
 ### 👉 Others
 
 <p>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-%230db7ed.svg?style=for-the-badge&logo=OOP&logoColor=%2361DAFB"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23563D7C.svg?style=for-the-badge&logo=Linux&logoColor=white"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-%23593d88.svg?style=for-the-badge&logo=OOP&logoColor=%2361DAFB"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23E34F26.svg?style=for-the-badge&logo=Linux&logoColor=white"/>
   <img alt="HLD" src="https://img.shields.io/badge/HLD-%230db7ed.svg?style=for-the-badge&logo=HLD&logoColor=%2361DAFB"/>
   <img alt="LLD" src="https://img.shields.io/badge/LLD-%23563D7C.svg?style=for-the-badge&logo=LLD&logoColor=white"/>
-  <img alt="OS" src="https://img.shields.io/badge/OS-%230db7ed.svg?style=for-the-badge&logo=OS&logoColor=%2361DAFB"/>
-  <img alt="DBMS" src="https://img.shields.io/badge/DBMS-%23563D7C.svg?style=for-the-badge&logo=DBMS&logoColor=white"/>
+  <img alt="OS" src="https://img.shields.io/badge/OS-%23C21325.svg?style=for-the-badge&logo=OS&logoColor=%2361DAFB"/>
+  <img alt="DBMS" src="https://img.shields.io/badge/DBMS-%23DD0031.svg?style=for-the-badge&logo=DBMS&logoColor=white"/>
   <img alt="Kafka" src="https://img.shields.io/badge/kafka-%230db7ed.svg?style=for-the-badge&logo=kafka&logoColor=%2361DAFB"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%23563D7C.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=%2361DAFB"/>
